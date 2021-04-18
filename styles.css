@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #011F3F;
+  margin-top: 12%;
 }
 
 #level-title {
@@ -14,16 +15,18 @@ body {
   display: block;
   width: 50%;
   margin: auto;
+  margin-top: 8%;
 
 }
 
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 125px;
-  width: 25%;
+  height: 250px;
+  width: 300px;
   border: 10px solid black;
   border-radius: 20%;
+  margin-bottom: 10%;
 }
 
 .game-over {
